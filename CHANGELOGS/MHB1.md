@@ -1,0 +1,25 @@
+- 2.3.0
+    - Upgrade für Foundry 11.309
+    - Aktualisierung Monsterdaten bis inkl. PF2 5.5.3
+- 2.0.0
+    - Upgrade für Foundry V11
+    - Aktualisierung Monsterdaten bis inkl. PF2 5.0.2
+- 1.4.0
+    - Verschiedene Fixes
+    - Wechsel auf neues Übersetzungscoding
+    - Aktualisierung Schadensformeln für Blutungsschaden
+- 1.3.0
+    - Update auf die neuen Schadensformeln des PF2-Systems ab Version 4.6.0
+    - Typo-Korrektur der Basilisken-Fähigkeit "Versteinernder Blick"
+- 1.2.0
+    - Update Portraits von 700x700 weißer Hintergrund auf 1.000x1.000 transparenter Hintergrund
+    - Korrektur einiger nicht angezeigter Tokengrafiken
+    - Eigenes Bild für Lustbrut
+    - Farbvarianten für Kobolddrachenzauberer
+    - Farbvarianten für Chimären
+    - Farbvarianten für Seelengebundene Puppen
+    - Farbvariante für Streitpony, Riesenmantis, Adler, Kapoacinth und Unsichtbarer Diener
+- 1.1.0
+    - Update auf Foundry V10
+- 1.0.0
+    - Initialer Release
