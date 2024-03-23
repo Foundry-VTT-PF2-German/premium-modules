@@ -1,2 +1,4 @@
+- 2.0.4.1
+    - Verschiedene Korrekturen
 - 2.0.4.0
     - Initialer Release zu den Paizo-Modulen mit Version 2.0.4
