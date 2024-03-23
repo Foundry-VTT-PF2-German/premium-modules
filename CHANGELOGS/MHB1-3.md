@@ -1,3 +1,5 @@
+- 5.14.4.0
+    - Update auf PF2-Systemrelease 5.14.4
 - 5.11.5.0
     - Hinweis: Ab diesem Release sind in die übersetzten Daten die Remaster-Änderungen (z.B. Wechsel von positiver/negativer Energie auf Lebens-/Leerenenergie) eingearbeitet
     - Neue Versionsnummernlogik: Zur einfacheren Nachvollziehbarkeit enthält die Versionsnummer nun immer die Version des zugrundeliegenden PF2-Systemrelease (5.11.5.0 ist also das Initialrelease des Moduls für die PF2-Systemversion 5.11.5)
