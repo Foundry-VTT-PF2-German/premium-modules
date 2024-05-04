@@ -1,3 +1,6 @@
+- 5.15.1.0
+    - Update auf PF2-Systemrelease 5.15.1
+    - Im Zuge des Systemupdates wurden verschiedene Drachen umbenannt, z.B. wurde aus einem Adult Black Dragon ein Black Dragon (Adult). Diese Namensgebung wurde in der Lokalisierung berücksichtigt.
 - 5.14.4.0
     - Update auf PF2-Systemrelease 5.14.4
 - 5.11.5.0
