@@ -1,3 +1,5 @@
+- 2.0.5.1
+    - Verschiedene kleinere Korrekturen
 - 2.0.4.1
     - Verschiedene Korrekturen
 - 2.0.4.0
