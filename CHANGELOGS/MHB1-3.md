@@ -1,3 +1,6 @@
+- 6.0.1.0
+    - Update auf Foundry 12
+    - Update auf PF2-Systemrelease 6.0.1
 - 5.16.0.0
     - Update auf PF2-Systemrelease 5.16.0
 - 5.15.1.0
