@@ -1,3 +1,5 @@
+- 12.0.0.0
+    - Update auf Foundry 12 und die Outlaws of Alkenstar Module 12.0.0
 - 2.0.5.1
     - Verschiedene kleinere Korrekturen
 - 2.0.4.1
