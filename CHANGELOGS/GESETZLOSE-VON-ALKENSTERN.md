@@ -1,3 +1,5 @@
+- 12.0.0.1
+    - Update auf PF2-Version 6.1.3 und DE-Modul 6.1.3.0
 - 12.0.0.0
     - Update auf Foundry 12 und die Outlaws of Alkenstar Module 12.0.0
 - 2.0.5.1
