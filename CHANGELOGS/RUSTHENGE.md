@@ -1,3 +1,5 @@
+- 12.1.0.1
+    - Update auf Foundry-Version 12.331, PF2-Version 6.2.2 und DE-Modul 6.2.2.0
 - 12.1.0.0
     - Update auf PF2-Version 6.2.1, DE-Modul 6.2.1.1 und Rusthenge-Modul 12.1.0
 - 12.0.0.2
