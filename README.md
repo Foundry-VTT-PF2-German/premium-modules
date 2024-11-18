@@ -5,3 +5,4 @@ Hier könnt ihr eure Themen zu den folgenden Modulen platzieren und findet deren
 - Monsterhandbuch 3
 - Gesetzlose von Alkenstern
 - Rusthenge
+- Schreckensgewölbe
