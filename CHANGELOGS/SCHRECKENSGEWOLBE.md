@@ -1,8 +1,6 @@
 - 3.1.3.3
     -  Update auf DE-Modul 6.6.2.2
     -  Ergänzung einige fehlender Felder zur Übersetzung
-- 3.1.3.3
-    -  Update auf DE-Modul 6.6.2.2
 - 3.1.3.2
     -  Update auf PF2-Version 6.6.2 und DE-Modul 6.6.2.1
 - 3.1.3.1
