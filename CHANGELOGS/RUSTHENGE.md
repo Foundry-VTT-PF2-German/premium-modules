@@ -1,3 +1,6 @@
+- 12.1.0.5
+    -  Update auf DE-Modul 6.6.2.2
+    -  Ergänzung einige fehlender Felder zur Übersetzung
 - 12.1.0.4
     -  Update auf PF2-Version 6.6.2 und DE-Modul 6.6.2.1
 - 12.1.0.3
