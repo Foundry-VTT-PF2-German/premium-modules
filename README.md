@@ -6,3 +6,4 @@ Hier könnt ihr eure Themen zu den folgenden Modulen platzieren und findet deren
 - Gesetzlose von Alkenstern
 - Rusthenge
 - Schreckensgewölbe
+- Die Sieben Verhängnisse von Sandspitze
