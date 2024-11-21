@@ -1,0 +1,2 @@
+- 12.1.0.0
+    - Initialer Release zum Paizo-Modul mit Version 12.1.0
