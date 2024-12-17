@@ -1,3 +1,5 @@
+- 3.1.5.0
+    - Update auf Version 3.1.5 des englischen Basismoduls
 - 3.1.4.0
     - Update auf Version 3.1.4 des englischen Basismoduls
     -  Update auf PF2-Version 6.7.2 und DE-Modul 6.7.2.0
