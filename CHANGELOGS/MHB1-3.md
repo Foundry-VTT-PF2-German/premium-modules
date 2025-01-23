@@ -1,3 +1,6 @@
+- 6.8.4.0
+    - Update auf PF2-Version 6.8.4 und DE-Modul 6.8.4.0
+    - Mit dem Erscheinen des Remaster-Buchs Monster Core wurden alle dort neu gedruckten Monster aus den Systemkompendien Bestiary 1-3 des PF2-Systems entfernt und können daher auch nicht mehr über dieses Modul lokalisiert werden. Um weiterhin das gesamte Buch zur Verfügung zu stellen, wurde das Modul erweitert - es übersetzt jetzt auch die Kompendien Bestiary 1-3 des Legacy Content-Moduls, sofern dieses installiert und aktiviert ist. Dort besteht weiterhin Zugriff auf alle Monster der Monsterhandbücher 1-3.
 - 6.6.2.0
     -  Update auf PF2-Version 6.6.2 und DE-Modul 6.6.2.1
 - 6.4.1.0
