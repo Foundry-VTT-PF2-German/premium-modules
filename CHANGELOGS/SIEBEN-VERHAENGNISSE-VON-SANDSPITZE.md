@@ -1,2 +1,4 @@
+- 12.1.0.2
+    - Update auf PF2-Version 6.8.4 und DE-Modul 6.8.4.1
 - 12.1.0.0
     - Initialer Release zum Paizo-Modul mit Version 12.1.0
