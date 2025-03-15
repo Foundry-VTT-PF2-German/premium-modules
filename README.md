@@ -3,6 +3,7 @@ Hier könnt ihr eure Themen zu den folgenden Modulen platzieren und findet deren
 - Monsterhandbuch 1
 - Monsterhandbuch 2
 - Monsterhandbuch 3
+- Kernregeln Monster
 - Gesetzlose von Alkenstern
 - Rusthenge
 - Schreckensgewölbe
