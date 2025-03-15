@@ -1,0 +1,4 @@
+- 6.10.2.0
+    - Update auf PF2-Version 6.10.2 und DE-Modul 6.10.2.0
+- 6.9.0.0
+    - Initialer Release
