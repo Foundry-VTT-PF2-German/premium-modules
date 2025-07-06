@@ -1,3 +1,5 @@
+- 3.3.1.0
+    - Update auf Foundry 13.345, PF2-Version 7.2.0 und DE-Modul 7.2.0.0
 - 3.2.1.1
     - Update auf PF2-Version 6.10.2 und DE-Modul 6.10.2.0
 - 3.2.1.0
