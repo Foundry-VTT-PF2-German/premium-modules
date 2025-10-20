@@ -1,3 +1,5 @@
+- 13.1.0.0
+    - Update auf PF2-Version 7.6.3, DE-Modul 7.6.3.0 und Modulversion 13.1.0
 - 12.1.0.3
     - Update auf PF2-Version 6.10.2 und DE-Modul 6.10.2.0
 - 12.1.0.2
