@@ -1,2 +1,2 @@
-- 13.1.0.0
-    - Initialer Release zu den Paizo-Modulen mit Version 13.1.0
+- 13.0.0.0
+    - Initialer Release zum Paizo-Modul mit Version 13.0.0
